@@ -83,7 +83,11 @@ This is a **React-based web application** that displays a list of user profiles 
 
 Since there was a deployment issue, a demo video is provided instead:
 
-👉 [Watch the Demo Video](#) *(insert video link here)*
+
+https://github.com/user-attachments/assets/27964972-454f-4a3d-abde-2d8a2321444b
+
+
+👉 [Watch the Demo Video](#) 
 
 ---
 
